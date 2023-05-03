@@ -1,6 +1,8 @@
-# MyMovieBook
+# OnlineJobPortal
 
-This is a Entertainment site, similar to that of LinkedIn for jobs, it is specifically for movies, it has two main parts
+This is a Job Site where user can search for jobs he wanted, it has two parts 
+-> Administration
 -> User Management
--> IMDB API for Movies Search Engine 
-In the first part User has a account where user can list out his / her favourite actor ,actress, movies and then whenever a new blog comes up relating to his/her favourite , the blog is shown to the user when he enters the site. This web site uses html, css, bootstrap as frontend and jsp, servlet, mysql as backend.
+Admin is responsible for CRUD operations, admin will check on status of the job which only will be displayed to the user,
+User can select his prefered location and job, user can edit his profile according to his needs. This web site uses html,
+css, bootstrap as frontend and jsp, servlet, mysql as backend.
