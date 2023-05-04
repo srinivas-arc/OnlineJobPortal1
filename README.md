@@ -3,6 +3,7 @@
 This is a Job Site where user can search for jobs he wanted, it has two parts 
 
 -> Administration
+
 -> User Management
 
 Admin is responsible for CRUD operations, admin will check on status of the job which only will be displayed to the user,
